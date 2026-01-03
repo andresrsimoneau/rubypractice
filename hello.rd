@@ -13,10 +13,9 @@ def Andres
   put 5000000000
 end
 
-puts Andres
+
 
 #This is a simple Ruby script
 
 
-rubyLsp.start
 
